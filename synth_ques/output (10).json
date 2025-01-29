@@ -1,0 +1,3877 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary role?",
+    "options": [
+      {
+        "id": "r1",
+        "option": "CEO"
+      },
+      {
+        "id": "r2",
+        "option": "Manager"
+      },
+      {
+        "id": "r3",
+        "option": "Team Lead"
+      },
+      {
+        "id": "r4",
+        "option": "Individual Contributor"
+      }
+    ]
+  },
+  {
+    "id": "f0e9d7c6-b5a4-3210-fedc-ba9876543210",
+    "type": "NUMBER",
+    "question": "Annual Revenue (in USD)",
+    "options": [
+      {
+        "id": "n1",
+        "option": "0-100000"
+      },
+      {
+        "id": "n2",
+        "option": "100001-500000"
+      },
+      {
+        "id": "n3",
+        "option": "500001-1000000"
+      },
+      {
+        "id": "n4",
+        "option": "1000000+"
+      }
+    ]
+  },
+  {
+    "id": "98765432-fedc-ba98-7654-3210fedcba98",
+    "type": "MULTI_SELECT",
+    "question": "Which industries do you serve?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Technology"
+      },
+      {
+        "id": "i2",
+        "option": "Healthcare"
+      },
+      {
+        "id": "i3",
+        "option": "Finance"
+      },
+      {
+        "id": "i4",
+        "option": "Manufacturing"
+      }
+    ]
+  },
+  {
+    "id": "b5a43210-fedc-ba98-7654-3210fedcba98",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company size?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "1-50"
+      },
+      {
+        "id": "s2",
+        "option": "51-200"
+      },
+      {
+        "id": "s3",
+        "option": "201-1000"
+      },
+      {
+        "id": "s4",
+        "option": "1000+"
+      }
+    ]
+  },
+  {
+    "id": "c6d7e8f9-a1b2-3456-7890-1234567890ab",
+    "type": "NUMBER",
+    "question": "Number of employees",
+    "options": [
+      {
+        "id": "e1",
+        "option": "1-10"
+      },
+      {
+        "id": "e2",
+        "option": "11-50"
+      },
+      {
+        "id": "e3",
+        "option": "51-100"
+      },
+      {
+        "id": "e4",
+        "option": "100+"
+      }
+    ]
+  },
+  {
+    "id": "d7e8f9a0-b1c2-3567-8901-234567890abc",
+    "type": "MULTI_SELECT",
+    "question": "What are your biggest challenges?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Finding qualified talent"
+      },
+      {
+        "id": "ch2",
+        "option": "Increasing revenue"
+      },
+      {
+        "id": "ch3",
+        "option": "Improving customer satisfaction"
+      },
+      {
+        "id": "ch4",
+        "option": "Scaling operations"
+      }
+    ]
+  },
+  {
+    "id": "e8f9a0b1-c2d3-4678-9012-34567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your budget for this project?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Under $10,000"
+      },
+      {
+        "id": "b2",
+        "option": "$10,000-$50,000"
+      },
+      {
+        "id": "b3",
+        "option": "$50,001-$100,000"
+      },
+      {
+        "id": "b4",
+        "option": "Over $100,000"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-5789-0123-4567890abcdef",
+    "type": "NUMBER",
+    "question": "Estimated project timeline (in months)",
+    "options": [
+      {
+        "id": "t1",
+        "option": "1-3"
+      },
+      {
+        "id": "t2",
+        "option": "4-6"
+      },
+      {
+        "id": "t3",
+        "option": "7-12"
+      },
+      {
+        "id": "t4",
+        "option": "12+"
+      }
+    ]
+  },
+  {
+    "id": "a0b1c2d3-e4f5-6789-0123-4567890abcdef",
+    "type": "MULTI_SELECT",
+    "question": "What are your key priorities for this project?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Cost reduction"
+      },
+      {
+        "id": "p2",
+        "option": "Improved efficiency"
+      },
+      {
+        "id": "p3",
+        "option": "Increased revenue"
+      },
+      {
+        "id": "p4",
+        "option": "Enhanced security"
+      }
+    ]
+  },
+  {
+    "id": "b1c2d3e4-f5g6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your preferred method of communication?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Email"
+      },
+      {
+        "id": "m2",
+        "option": "Phone"
+      },
+      {
+        "id": "m3",
+        "option": "Video Conferencing"
+      }
+    ]
+  },
+  {
+    "id": "c2d3e4f5-g6h7-8901-2345-67890abcdef12",
+    "type": "NUMBER",
+    "question": "How many times per week do you check your email?",
+    "options": [
+      {
+        "id": "em1",
+        "option": "1-2"
+      },
+      {
+        "id": "em2",
+        "option": "3-5"
+      },
+      {
+        "id": "em3",
+        "option": "6-10"
+      },
+      {
+        "id": "em4",
+        "option": "10+"
+      }
+    ]
+  },
+  {
+    "id": "d3e4f5g6-h7i8-9012-3456-7890abcdef123",
+    "type": "MULTI_SELECT",
+    "question": "What are your preferred communication channels?",
+    "options": [
+      {
+        "id": "c1",
+        "option": "Email"
+      },
+      {
+        "id": "c2",
+        "option": "Phone"
+      },
+      {
+        "id": "c3",
+        "option": "Slack"
+      },
+      {
+        "id": "c4",
+        "option": "Microsoft Teams"
+      }
+    ]
+  },
+  {
+    "id": "e4f5g6h7-i8j9-0123-4567-890abcdef1234",
+    "type": "SINGLE_SELECT",
+    "question": "What is your level of experience with our product?",
+    "options": [
+      {
+        "id": "ex1",
+        "option": "Beginner"
+      },
+      {
+        "id": "ex2",
+        "option": "Intermediate"
+      },
+      {
+        "id": "ex3",
+        "option": "Advanced"
+      }
+    ]
+  },
+  {
+    "id": "f5g6h7i8-j9k0-1234-5678-90abcdef12345",
+    "type": "NUMBER",
+    "question": "How many hours per week do you use our product?",
+    "options": [
+      {
+        "id": "h1",
+        "option": "0-5"
+      },
+      {
+        "id": "h2",
+        "option": "6-10"
+      },
+      {
+        "id": "h3",
+        "option": "11-20"
+      },
+      {
+        "id": "h4",
+        "option": "20+"
+      }
+    ]
+  },
+  {
+    "id": "g6h7i8j9-k0l1-2345-6789-0abcdef123456",
+    "type": "MULTI_SELECT",
+    "question": "Which features of our product do you use most often?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Feature A"
+      },
+      {
+        "id": "f2",
+        "option": "Feature B"
+      },
+      {
+        "id": "f3",
+        "option": "Feature C"
+      },
+      {
+        "id": "f4",
+        "option": "Feature D"
+      }
+    ]
+  },
+  {
+    "id": "h7i8j9k0-l1m2-3456-7890-1234567890abcde",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are you with our customer support?",
+    "options": [
+      {
+        "id": "sat1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "sat2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "sat3",
+        "option": "Neutral"
+      },
+      {
+        "id": "sat4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "sat5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "i8j9k0l1-m2n3-4567-8901-234567890abcdef",
+    "type": "NUMBER",
+    "question": "How often do you contact our customer support?",
+    "options": [
+      {
+        "id": "co1",
+        "option": "Never"
+      },
+      {
+        "id": "co2",
+        "option": "Less than once a month"
+      },
+      {
+        "id": "co3",
+        "option": "Once a month"
+      },
+      {
+        "id": "co4",
+        "option": "More than once a month"
+      }
+    ]
+  },
+  {
+    "id": "j9k0l1m2-n3o4-5678-9012-34567890abcdefg",
+    "type": "MULTI_SELECT",
+    "question": "What could we improve about our customer support?",
+    "options": [
+      {
+        "id": "imp1",
+        "option": "Response time"
+      },
+      {
+        "id": "imp2",
+        "option": "Knowledge base"
+      },
+      {
+        "id": "imp3",
+        "option": "Communication"
+      },
+      {
+        "id": "imp4",
+        "option": "Problem solving"
+      }
+    ]
+  },
+  {
+    "id": "k0l1m2n3-o4p5-6789-0123-4567890abcdefgh",
+    "type": "TEXT",
+    "question": "Additional Comments",
+    "options": [
+      {
+        "id": "comments",
+        "option": "Please share any additional feedback"
+      }
+    ]
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary source of marketing leads?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Social Media"
+      },
+      {
+        "id": "m2",
+        "option": "Search Engine Optimization (SEO)"
+      },
+      {
+        "id": "m3",
+        "option": "Paid Advertising"
+      },
+      {
+        "id": "m4",
+        "option": "Referrals"
+      },
+      {
+        "id": "m5",
+        "option": "Email Marketing"
+      },
+      {
+        "id": "m6",
+        "option": "Content Marketing"
+      }
+    ]
+  },
+  {
+    "id": "6f7e8d9c-0a1b-2c3d-4e5f-678901234567",
+    "type": "NUMBER",
+    "question": "Approximate number of marketing leads generated per month?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "0-10"
+      },
+      {
+        "id": "n2",
+        "option": "11-50"
+      },
+      {
+        "id": "n3",
+        "option": "51-100"
+      },
+      {
+        "id": "n4",
+        "option": "101-500"
+      },
+      {
+        "id": "n5",
+        "option": "500+"
+      }
+    ]
+  },
+  {
+    "id": "b7c8a90d-1e2f-3g4h-5i6j-7k8l9m0n1p2q",
+    "type": "MULTI_SELECT",
+    "question": "Which marketing channels are you planning to invest in next quarter?",
+    "options": [
+      {
+        "id": "c1",
+        "option": "LinkedIn"
+      },
+      {
+        "id": "c2",
+        "option": "Google Ads"
+      },
+      {
+        "id": "c3",
+        "option": "Content Syndication"
+      },
+      {
+        "id": "c4",
+        "option": "Podcast Advertising"
+      },
+      {
+        "id": "c5",
+        "option": "Email Sequencing"
+      }
+    ]
+  },
+  {
+    "id": "2d3e4f5g-6h7i-8j9k-0l1m-2n3o4p5q6r7s",
+    "type": "SINGLE_SELECT",
+    "question": "What is your biggest challenge in lead generation?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Low conversion rates"
+      },
+      {
+        "id": "ch2",
+        "option": "Lead qualification"
+      },
+      {
+        "id": "ch3",
+        "option": "Budget constraints"
+      },
+      {
+        "id": "ch4",
+        "option": "Lack of resources"
+      },
+      {
+        "id": "ch5",
+        "option": "Measuring ROI"
+      }
+    ]
+  },
+  {
+    "id": "7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+    "type": "NUMBER",
+    "question": "What percentage of your leads convert into customers?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "0-10%"
+      },
+      {
+        "id": "p2",
+        "option": "11-25%"
+      },
+      {
+        "id": "p3",
+        "option": "26-50%"
+      },
+      {
+        "id": "p4",
+        "option": "51-75%"
+      },
+      {
+        "id": "p5",
+        "option": "75%+"
+      }
+    ]
+  },
+  {
+    "id": "8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+    "type": "MULTI_SELECT",
+    "question": "What tools do you currently use for lead generation?",
+    "options": [
+      {
+        "id": "t1",
+        "option": "HubSpot"
+      },
+      {
+        "id": "t2",
+        "option": "Marketo"
+      },
+      {
+        "id": "t3",
+        "option": "Salesforce"
+      },
+      {
+        "id": "t4",
+        "option": "Mailchimp"
+      },
+      {
+        "id": "t5",
+        "option": "Google Analytics"
+      }
+    ]
+  },
+  {
+    "id": "3f4g5h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8",
+    "type": "SINGLE_SELECT",
+    "question": "What is your average customer acquisition cost (CAC)?",
+    "options": [
+      {
+        "id": "ca1",
+        "option": "Under $100"
+      },
+      {
+        "id": "ca2",
+        "option": "$100-$500"
+      },
+      {
+        "id": "ca3",
+        "option": "$501-$1000"
+      },
+      {
+        "id": "ca4",
+        "option": "$1001-$5000"
+      },
+      {
+        "id": "ca5",
+        "option": "Over $5000"
+      }
+    ]
+  },
+  {
+    "id": "9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+    "type": "NUMBER",
+    "question": "How many sales representatives do you have on your team?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "1-5"
+      },
+      {
+        "id": "s2",
+        "option": "6-10"
+      },
+      {
+        "id": "s3",
+        "option": "11-20"
+      },
+      {
+        "id": "s4",
+        "option": "21-50"
+      },
+      {
+        "id": "s5",
+        "option": "50+"
+      }
+    ]
+  },
+  {
+    "id": "0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+    "type": "MULTI_SELECT",
+    "question": "What metrics do you track to measure lead generation effectiveness?",
+    "options": [
+      {
+        "id": "me1",
+        "option": "Conversion Rate"
+      },
+      {
+        "id": "me2",
+        "option": "Cost Per Lead (CPL)"
+      },
+      {
+        "id": "me3",
+        "option": "Customer Acquisition Cost (CAC)"
+      },
+      {
+        "id": "me4",
+        "option": "Return on Investment (ROI)"
+      },
+      {
+        "id": "me5",
+        "option": "Lead Response Time"
+      }
+    ]
+  },
+  {
+    "id": "4h5i6j7k-8l9m-0n1o-2p3q-4r5s6t7u8v",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company\u2019s annual revenue?",
+    "options": [
+      {
+        "id": "r1",
+        "option": "Under $1M"
+      },
+      {
+        "id": "r2",
+        "option": "$1M - $5M"
+      },
+      {
+        "id": "r3",
+        "option": "$5M - $10M"
+      },
+      {
+        "id": "r4",
+        "option": "$10M - $50M"
+      },
+      {
+        "id": "r5",
+        "option": "Over $50M"
+      }
+    ]
+  },
+  {
+    "id": "1m2n3o4p-5q6r-7s8t-9u0v-1w2x3y4z5a",
+    "type": "NUMBER",
+    "question": "How many marketing campaigns did you run last year?",
+    "options": [
+      {
+        "id": "ca1",
+        "option": "0-5"
+      },
+      {
+        "id": "ca2",
+        "option": "6-10"
+      },
+      {
+        "id": "ca3",
+        "option": "11-20"
+      },
+      {
+        "id": "ca4",
+        "option": "21-50"
+      },
+      {
+        "id": "ca5",
+        "option": "50+"
+      }
+    ]
+  },
+  {
+    "id": "2n3o4p5q-6r7s-8t9u-0v1w-2x3y4z5a6b",
+    "type": "MULTI_SELECT",
+    "question": "What are your primary marketing goals for the next year?",
+    "options": [
+      {
+        "id": "g1",
+        "option": "Increase brand awareness"
+      },
+      {
+        "id": "g2",
+        "option": "Generate more leads"
+      },
+      {
+        "id": "g3",
+        "option": "Improve conversion rates"
+      },
+      {
+        "id": "g4",
+        "option": "Increase customer retention"
+      },
+      {
+        "id": "g5",
+        "option": "Expand into new markets"
+      }
+    ]
+  },
+  {
+    "id": "5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x",
+    "type": "TEXT",
+    "question": "Additional comments or feedback",
+    "options": [
+      {
+        "id": "feedback",
+        "option": "Please provide any additional information."
+      }
+    ]
+  },
+  {
+    "id": "f1e2d3c4-b5a6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company's primary industry?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Technology"
+      },
+      {
+        "id": "i2",
+        "option": "Finance"
+      },
+      {
+        "id": "i3",
+        "option": "Healthcare"
+      },
+      {
+        "id": "i4",
+        "option": "Manufacturing"
+      },
+      {
+        "id": "i5",
+        "option": "Retail"
+      },
+      {
+        "id": "i6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "g5h6j7k8-l9m0-n1o2-p3q4-r5s6t7u8v9w",
+    "type": "NUMBER",
+    "question": "What is your estimated annual budget for IT infrastructure?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Less than $10,000"
+      },
+      {
+        "id": "b2",
+        "option": "$10,000 - $50,000"
+      },
+      {
+        "id": "b3",
+        "option": "$50,000 - $100,000"
+      },
+      {
+        "id": "b4",
+        "option": "More than $100,000"
+      }
+    ]
+  },
+  {
+    "id": "x7y8z9a0-b1c2-d3e4-f5g6-h7i8j9k0l1m",
+    "type": "MULTI_SELECT",
+    "question": "Which cloud services do you currently use?",
+    "options": [
+      {
+        "id": "c1",
+        "option": "AWS"
+      },
+      {
+        "id": "c2",
+        "option": "Azure"
+      },
+      {
+        "id": "c3",
+        "option": "Google Cloud"
+      },
+      {
+        "id": "c4",
+        "option": "IBM Cloud"
+      },
+      {
+        "id": "c5",
+        "option": "Oracle Cloud"
+      },
+      {
+        "id": "c6",
+        "option": "None"
+      }
+    ]
+  },
+  {
+    "id": "a4b5c6d7-e8f9-0123-4567-890123456789",
+    "type": "SINGLE_SELECT",
+    "question": "What is your biggest concern regarding cybersecurity?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Data breaches"
+      },
+      {
+        "id": "s2",
+        "option": "Malware attacks"
+      },
+      {
+        "id": "s3",
+        "option": "Phishing scams"
+      },
+      {
+        "id": "s4",
+        "option": "Ransomware"
+      },
+      {
+        "id": "s5",
+        "option": "Compliance issues"
+      },
+      {
+        "id": "s6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-012345678901",
+    "type": "NUMBER",
+    "question": "How many employees have access to sensitive company data?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "Less than 10"
+      },
+      {
+        "id": "n2",
+        "option": "10 - 50"
+      },
+      {
+        "id": "n3",
+        "option": "50 - 100"
+      },
+      {
+        "id": "n4",
+        "option": "More than 100"
+      }
+    ]
+  },
+  {
+    "id": "c8d9e0f1-a2b3-c4d5-e6f7-890123456789",
+    "type": "MULTI_SELECT",
+    "question": "What cybersecurity measures do you currently have in place?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Firewall"
+      },
+      {
+        "id": "m2",
+        "option": "Antivirus software"
+      },
+      {
+        "id": "m3",
+        "option": "Intrusion detection system (IDS)"
+      },
+      {
+        "id": "m4",
+        "option": "Multi-factor authentication (MFA)"
+      },
+      {
+        "id": "m5",
+        "option": "Data encryption"
+      },
+      {
+        "id": "m6",
+        "option": "Regular security audits"
+      },
+      {
+        "id": "m7",
+        "option": "Employee security training"
+      },
+      {
+        "id": "m8",
+        "option": "None"
+      }
+    ]
+  },
+  {
+    "id": "d0e1f2g3-h4i5-j6k7-l8m9-n0p1q2r3s4t",
+    "type": "SINGLE_SELECT",
+    "question": "What is your current level of satisfaction with your existing IT infrastructure?",
+    "options": [
+      {
+        "id": "l1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "l2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "l3",
+        "option": "Neutral"
+      },
+      {
+        "id": "l4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "l5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "e2f3g4h5-i6j7-k8l9-m0n1-o2p3q4r5s6t",
+    "type": "NUMBER",
+    "question": "How many hours of downtime did your company experience last year?",
+    "options": [
+      {
+        "id": "d1",
+        "option": "0-10"
+      },
+      {
+        "id": "d2",
+        "option": "11-50"
+      },
+      {
+        "id": "d3",
+        "option": "51-100"
+      },
+      {
+        "id": "d4",
+        "option": "More than 100"
+      }
+    ]
+  },
+  {
+    "id": "f4g5h6i7-j8k9-l0m1-n2o3-p4q5r6s7t8",
+    "type": "MULTI_SELECT",
+    "question": "What are your top priorities for your IT infrastructure in the next 12 months?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Improved security"
+      },
+      {
+        "id": "p2",
+        "option": "Increased scalability"
+      },
+      {
+        "id": "p3",
+        "option": "Reduced costs"
+      },
+      {
+        "id": "p4",
+        "option": "Improved performance"
+      },
+      {
+        "id": "p5",
+        "option": "Better disaster recovery"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890a1b2",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary role within your organization?",
+    "options": [
+      {
+        "id": "r1",
+        "option": "CEO/President"
+      },
+      {
+        "id": "r2",
+        "option": "VP/Director"
+      },
+      {
+        "id": "r3",
+        "option": "Manager"
+      },
+      {
+        "id": "r4",
+        "option": "Team Lead"
+      },
+      {
+        "id": "r5",
+        "option": "Individual Contributor"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890a1b2c3",
+    "type": "NUMBER",
+    "question": "Approximately how many employees does your company have?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "1-50"
+      },
+      {
+        "id": "n2",
+        "option": "51-200"
+      },
+      {
+        "id": "n3",
+        "option": "201-1000"
+      },
+      {
+        "id": "n4",
+        "option": "1000+"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890a1b2c3d4",
+    "type": "MULTI_SELECT",
+    "question": "Which of the following software categories are you currently using?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "CRM"
+      },
+      {
+        "id": "s2",
+        "option": "ERP"
+      },
+      {
+        "id": "s3",
+        "option": "Project Management"
+      },
+      {
+        "id": "s4",
+        "option": "Marketing Automation"
+      },
+      {
+        "id": "s5",
+        "option": "Customer Support"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0a1b2c3",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company's annual revenue?",
+    "options": [
+      {
+        "id": "rev1",
+        "option": "Under $1M"
+      },
+      {
+        "id": "rev2",
+        "option": "$1M - $10M"
+      },
+      {
+        "id": "rev3",
+        "option": "$10M - $50M"
+      },
+      {
+        "id": "rev4",
+        "option": "$50M - $100M"
+      },
+      {
+        "id": "rev5",
+        "option": "Over $100M"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890a1b2c",
+    "type": "NUMBER",
+    "question": "How many software licenses does your company currently utilize?",
+    "options": [
+      {
+        "id": "l1",
+        "option": "Less than 10"
+      },
+      {
+        "id": "l2",
+        "option": "10 - 50"
+      },
+      {
+        "id": "l3",
+        "option": "51 - 200"
+      },
+      {
+        "id": "l4",
+        "option": "200+"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What are your top three priorities for improving business processes?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Increased efficiency"
+      },
+      {
+        "id": "p2",
+        "option": "Improved collaboration"
+      },
+      {
+        "id": "p3",
+        "option": "Better data visibility"
+      },
+      {
+        "id": "p4",
+        "option": "Reduced costs"
+      },
+      {
+        "id": "p5",
+        "option": "Enhanced security"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are you with your current software solutions?",
+    "options": [
+      {
+        "id": "sat1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "sat2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "sat3",
+        "option": "Neutral"
+      },
+      {
+        "id": "sat4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "sat5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "On a scale of 1 to 10, how would you rate the ease of use of your current software?",
+    "options": [
+      {
+        "id": "e1",
+        "option": "1-3"
+      },
+      {
+        "id": "e2",
+        "option": "4-6"
+      },
+      {
+        "id": "e3",
+        "option": "7-9"
+      },
+      {
+        "id": "e4",
+        "option": "10"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What features are most important to you in a software solution?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Integration with existing systems"
+      },
+      {
+        "id": "f2",
+        "option": "Scalability"
+      },
+      {
+        "id": "f3",
+        "option": "User-friendliness"
+      },
+      {
+        "id": "f4",
+        "option": "Robust security"
+      },
+      {
+        "id": "f5",
+        "option": "Excellent customer support"
+      }
+    ]
+  },
+  {
+    "id": "a1s2d3f4-g5h6-j7k8-l9m0-n1o2p3q4",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary method of online advertising?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Google Ads"
+      },
+      {
+        "id": "m2",
+        "option": "Social Media Ads (Facebook, Instagram, etc.)"
+      },
+      {
+        "id": "m3",
+        "option": "Programmatic Advertising"
+      },
+      {
+        "id": "m4",
+        "option": "Affiliate Marketing"
+      },
+      {
+        "id": "m5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "b2e3f4g5-h6j7-k8l9-m0n1-o2p3q4r5",
+    "type": "NUMBER",
+    "question": "What is your monthly budget for online advertising?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Under $500"
+      },
+      {
+        "id": "b2",
+        "option": "$500 - $2,000"
+      },
+      {
+        "id": "b3",
+        "option": "$2,001 - $10,000"
+      },
+      {
+        "id": "b4",
+        "option": "Over $10,000"
+      }
+    ]
+  },
+  {
+    "id": "c3g4h5j6-k7l8-m9n0-p1q2-r3s4t5u6",
+    "type": "MULTI_SELECT",
+    "question": "Which key performance indicators (KPIs) do you track for your online advertising campaigns?",
+    "options": [
+      {
+        "id": "k1",
+        "option": "Click-Through Rate (CTR)"
+      },
+      {
+        "id": "k2",
+        "option": "Conversion Rate"
+      },
+      {
+        "id": "k3",
+        "option": "Cost Per Click (CPC)"
+      },
+      {
+        "id": "k4",
+        "option": "Cost Per Acquisition (CPA)"
+      },
+      {
+        "id": "k5",
+        "option": "Return on Ad Spend (ROAS)"
+      },
+      {
+        "id": "k6",
+        "option": "Brand Awareness Metrics"
+      }
+    ]
+  },
+  {
+    "id": "d4h5j6l7-m8n9-o0p1-q2r3-s4t5u6v7",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary goal for online advertising?",
+    "options": [
+      {
+        "id": "g1",
+        "option": "Brand Awareness"
+      },
+      {
+        "id": "g2",
+        "option": "Lead Generation"
+      },
+      {
+        "id": "g3",
+        "option": "Sales"
+      },
+      {
+        "id": "g4",
+        "option": "Website Traffic"
+      },
+      {
+        "id": "g5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "e5j6k7m8-n9o0-p1q2-r3s4-t5u6v7w8",
+    "type": "NUMBER",
+    "question": "What percentage of your marketing budget is allocated to online advertising?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "0-25%"
+      },
+      {
+        "id": "p2",
+        "option": "26-50%"
+      },
+      {
+        "id": "p3",
+        "option": "51-75%"
+      },
+      {
+        "id": "p4",
+        "option": "76-100%"
+      }
+    ]
+  },
+  {
+    "id": "f6k7l8n9-o0p1-q2r3-s4t5-u6v7w8x9",
+    "type": "MULTI_SELECT",
+    "question": "What types of online advertising platforms are you currently NOT using, but considering?",
+    "options": [
+      {
+        "id": "pl1",
+        "option": "TikTok Ads"
+      },
+      {
+        "id": "pl2",
+        "option": "Pinterest Ads"
+      },
+      {
+        "id": "pl3",
+        "option": "Snapchat Ads"
+      },
+      {
+        "id": "pl4",
+        "option": "Amazon Ads"
+      },
+      {
+        "id": "pl5",
+        "option": "Influencer Marketing"
+      }
+    ]
+  },
+  {
+    "id": "g7l8m9o0-p1q2-r3s4-t5u6-v7w8x9y0",
+    "type": "SINGLE_SELECT",
+    "question": "How would you rate your overall satisfaction with your current online advertising strategy?",
+    "options": [
+      {
+        "id": "sat1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "sat2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "sat3",
+        "option": "Neutral"
+      },
+      {
+        "id": "sat4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "sat5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "h8m9n0p1-q2r3-s4t5-u6v7-w8x9y0z1",
+    "type": "NUMBER",
+    "question": "How many hours per week do you dedicate to managing your online advertising campaigns?",
+    "options": [
+      {
+        "id": "h1",
+        "option": "Less than 5"
+      },
+      {
+        "id": "h2",
+        "option": "5-10"
+      },
+      {
+        "id": "h3",
+        "option": "11-20"
+      },
+      {
+        "id": "h4",
+        "option": "More than 20"
+      }
+    ]
+  },
+  {
+    "id": "i9n0p1q2-r3s4-t5u6-v7w8-x9y0z1a2",
+    "type": "MULTI_SELECT",
+    "question": "What are your biggest challenges in online advertising?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Measuring ROI"
+      },
+      {
+        "id": "ch2",
+        "option": "Budget constraints"
+      },
+      {
+        "id": "ch3",
+        "option": "Keeping up with changing algorithms"
+      },
+      {
+        "id": "ch4",
+        "option": "Finding qualified traffic"
+      },
+      {
+        "id": "ch5",
+        "option": "Lack of time/resources"
+      }
+    ]
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company's primary business model?",
+    "options": [
+      {
+        "id": "bm1",
+        "option": "B2B (Business-to-Business)"
+      },
+      {
+        "id": "bm2",
+        "option": "B2C (Business-to-Consumer)"
+      },
+      {
+        "id": "bm3",
+        "option": "B2G (Business-to-Government)"
+      },
+      {
+        "id": "bm4",
+        "option": "C2C (Consumer-to-Consumer)"
+      },
+      {
+        "id": "bm5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "6f7e8d9c-0a1b-2c3d-4e5f-678901234567",
+    "type": "NUMBER",
+    "question": "What is your average order value (AOV)?",
+    "options": [
+      {
+        "id": "aov1",
+        "option": "Under $100"
+      },
+      {
+        "id": "aov2",
+        "option": "$100 - $500"
+      },
+      {
+        "id": "aov3",
+        "option": "$501 - $1000"
+      },
+      {
+        "id": "aov4",
+        "option": "Over $1000"
+      }
+    ]
+  },
+  {
+    "id": "b7c8a90d-1e2f-3g4h-5i6j-7k8l9m0n1p2q",
+    "type": "MULTI_SELECT",
+    "question": "Which sales channels do you currently utilize?",
+    "options": [
+      {
+        "id": "sc1",
+        "option": "Direct Sales"
+      },
+      {
+        "id": "sc2",
+        "option": "Online Sales (e-commerce)"
+      },
+      {
+        "id": "sc3",
+        "option": "Retail Partnerships"
+      },
+      {
+        "id": "sc4",
+        "option": "Wholesale Distributors"
+      },
+      {
+        "id": "sc5",
+        "option": "Affiliate Marketing"
+      },
+      {
+        "id": "sc6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "2d3e4f5g-6h7i-8j9k-0l1m-2n3o4p5q6r7s",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary sales strategy?",
+    "options": [
+      {
+        "id": "ss1",
+        "option": "Outbound Sales"
+      },
+      {
+        "id": "ss2",
+        "option": "Inbound Sales"
+      },
+      {
+        "id": "ss3",
+        "option": "Account-Based Marketing (ABM)"
+      },
+      {
+        "id": "ss4",
+        "option": "Content Marketing"
+      },
+      {
+        "id": "ss5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+    "type": "NUMBER",
+    "question": "What is your average customer lifetime value (CLTV)?",
+    "options": [
+      {
+        "id": "cltv1",
+        "option": "Under $500"
+      },
+      {
+        "id": "cltv2",
+        "option": "$500 - $2000"
+      },
+      {
+        "id": "cltv3",
+        "option": "$2001 - $5000"
+      },
+      {
+        "id": "cltv4",
+        "option": "Over $5000"
+      }
+    ]
+  },
+  {
+    "id": "8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+    "type": "MULTI_SELECT",
+    "question": "What sales tools do you currently use?",
+    "options": [
+      {
+        "id": "st1",
+        "option": "CRM Software (Salesforce, HubSpot, etc.)"
+      },
+      {
+        "id": "st2",
+        "option": "Sales Engagement Platforms (Outreach, SalesLoft, etc.)"
+      },
+      {
+        "id": "st3",
+        "option": "Customer Support Software (Zendesk, Intercom, etc.)"
+      },
+      {
+        "id": "st4",
+        "option": "Proposal Software"
+      },
+      {
+        "id": "st5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "3f4g5h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8",
+    "type": "SINGLE_SELECT",
+    "question": "What is your biggest challenge in sales?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Lead Generation"
+      },
+      {
+        "id": "ch2",
+        "option": "Closing Deals"
+      },
+      {
+        "id": "ch3",
+        "option": "Customer Retention"
+      },
+      {
+        "id": "ch4",
+        "option": "Sales Team Management"
+      },
+      {
+        "id": "ch5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+    "type": "NUMBER",
+    "question": "What is your sales conversion rate (percentage of leads that convert to customers)?",
+    "options": [
+      {
+        "id": "cr1",
+        "option": "Under 5%"
+      },
+      {
+        "id": "cr2",
+        "option": "5-10%"
+      },
+      {
+        "id": "cr3",
+        "option": "11-20%"
+      },
+      {
+        "id": "cr4",
+        "option": "Over 20%"
+      }
+    ]
+  },
+  {
+    "id": "0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+    "type": "MULTI_SELECT",
+    "question": "What sales methodologies do you currently employ?",
+    "options": [
+      {
+        "id": "sm1",
+        "option": "Solution Selling"
+      },
+      {
+        "id": "sm2",
+        "option": "Consultative Selling"
+      },
+      {
+        "id": "sm3",
+        "option": "Value Selling"
+      },
+      {
+        "id": "sm4",
+        "option": "Challenger Sale"
+      },
+      {
+        "id": "sm5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890a1b2",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary source of customer feedback?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Customer Surveys"
+      },
+      {
+        "id": "s2",
+        "option": "Social Media Monitoring"
+      },
+      {
+        "id": "s3",
+        "option": "Customer Support Interactions"
+      },
+      {
+        "id": "s4",
+        "option": "Focus Groups"
+      },
+      {
+        "id": "s5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890a1b2c3",
+    "type": "NUMBER",
+    "question": "Approximately how many customer feedback responses do you collect per month?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "Less than 10"
+      },
+      {
+        "id": "n2",
+        "option": "10-50"
+      },
+      {
+        "id": "n3",
+        "option": "51-100"
+      },
+      {
+        "id": "n4",
+        "option": "More than 100"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890a1b2c3d4",
+    "type": "MULTI_SELECT",
+    "question": "Which channels do you use to solicit customer feedback?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Email"
+      },
+      {
+        "id": "ch2",
+        "option": "In-App Surveys"
+      },
+      {
+        "id": "ch3",
+        "option": "Post-Purchase Emails"
+      },
+      {
+        "id": "ch4",
+        "option": "Social Media"
+      },
+      {
+        "id": "ch5",
+        "option": "Website Feedback Forms"
+      },
+      {
+        "id": "ch6",
+        "option": "Phone Calls"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0a1b2c3",
+    "type": "SINGLE_SELECT",
+    "question": "How frequently do you analyze customer feedback data?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Daily"
+      },
+      {
+        "id": "f2",
+        "option": "Weekly"
+      },
+      {
+        "id": "f3",
+        "option": "Monthly"
+      },
+      {
+        "id": "f4",
+        "option": "Quarterly"
+      },
+      {
+        "id": "f5",
+        "option": "Less than annually"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890a1b2c",
+    "type": "NUMBER",
+    "question": "What percentage of your customers provide feedback?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Under 5%"
+      },
+      {
+        "id": "p2",
+        "option": "5-10%"
+      },
+      {
+        "id": "p3",
+        "option": "11-20%"
+      },
+      {
+        "id": "p4",
+        "option": "Over 20%"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What tools or platforms do you use to collect and analyze customer feedback?",
+    "options": [
+      {
+        "id": "t1",
+        "option": "SurveyMonkey"
+      },
+      {
+        "id": "t2",
+        "option": "Qualtrics"
+      },
+      {
+        "id": "t3",
+        "option": "Typeform"
+      },
+      {
+        "id": "t4",
+        "option": "Google Forms"
+      },
+      {
+        "id": "t5",
+        "option": "Customer feedback software (e.g., Delighted)"
+      },
+      {
+        "id": "t6",
+        "option": "Spreadsheet software"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How important is customer feedback to your business decision-making?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Very Important"
+      },
+      {
+        "id": "i2",
+        "option": "Important"
+      },
+      {
+        "id": "i3",
+        "option": "Somewhat Important"
+      },
+      {
+        "id": "i4",
+        "option": "Not Important"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "How many employees are actively involved in the customer feedback process?",
+    "options": [
+      {
+        "id": "e1",
+        "option": "1-5"
+      },
+      {
+        "id": "e2",
+        "option": "6-10"
+      },
+      {
+        "id": "e3",
+        "option": "11-20"
+      },
+      {
+        "id": "e4",
+        "option": "More than 20"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What types of customer feedback are most valuable to your organization?",
+    "options": [
+      {
+        "id": "v1",
+        "option": "Product Feedback"
+      },
+      {
+        "id": "v2",
+        "option": "Service Feedback"
+      },
+      {
+        "id": "v3",
+        "option": "Pricing Feedback"
+      },
+      {
+        "id": "v4",
+        "option": "Marketing Feedback"
+      },
+      {
+        "id": "v5",
+        "option": "Website Feedback"
+      }
+    ]
+  },
+  {
+    "id": "a1s2d3f4-g5h6-j7k8-l9m0-n1o2p3q4r5t",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary goal for implementing a new CRM system?",
+    "options": [
+      {
+        "id": "g1",
+        "option": "Improve Customer Relationship Management"
+      },
+      {
+        "id": "g2",
+        "option": "Increase Sales Efficiency"
+      },
+      {
+        "id": "g3",
+        "option": "Enhance Sales Team Collaboration"
+      },
+      {
+        "id": "g4",
+        "option": "Better Data Management and Reporting"
+      },
+      {
+        "id": "g5",
+        "option": "Automate Sales Processes"
+      }
+    ]
+  },
+  {
+    "id": "b2e3f4g5-h6j7-k8l9-m0n1-o2p3q4r5s6",
+    "type": "NUMBER",
+    "question": "What is your estimated budget for the new CRM system (including implementation and training)?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Under $5,000"
+      },
+      {
+        "id": "b2",
+        "option": "$5,000 - $25,000"
+      },
+      {
+        "id": "b3",
+        "option": "$25,001 - $100,000"
+      },
+      {
+        "id": "b4",
+        "option": "Over $100,000"
+      }
+    ]
+  },
+  {
+    "id": "c3g4h5j6-k7l8-m9n0-p1q2-r3s4t5u6v7",
+    "type": "MULTI_SELECT",
+    "question": "Which CRM features are most important to your organization?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Contact Management"
+      },
+      {
+        "id": "f2",
+        "option": "Sales Pipeline Management"
+      },
+      {
+        "id": "f3",
+        "option": "Lead Management"
+      },
+      {
+        "id": "f4",
+        "option": "Reporting and Analytics"
+      },
+      {
+        "id": "f5",
+        "option": "Marketing Automation"
+      },
+      {
+        "id": "f6",
+        "option": "Customer Support Integration"
+      }
+    ]
+  },
+  {
+    "id": "d4h5j6l7-m8n9-o0p1-q2r3-s4t5u6v7w8",
+    "type": "SINGLE_SELECT",
+    "question": "How many users will require access to the new CRM system?",
+    "options": [
+      {
+        "id": "u1",
+        "option": "1-10"
+      },
+      {
+        "id": "u2",
+        "option": "11-50"
+      },
+      {
+        "id": "u3",
+        "option": "51-100"
+      },
+      {
+        "id": "u4",
+        "option": "Over 100"
+      }
+    ]
+  },
+  {
+    "id": "e5j6k7m8-n9o0-p1q2-r3s4-t5u6v7w8x9",
+    "type": "NUMBER",
+    "question": "How long do you anticipate the implementation process will take?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Less than 1 month"
+      },
+      {
+        "id": "i2",
+        "option": "1-3 months"
+      },
+      {
+        "id": "i3",
+        "option": "3-6 months"
+      },
+      {
+        "id": "i4",
+        "option": "More than 6 months"
+      }
+    ]
+  },
+  {
+    "id": "f6k7l8n9-o0p1-q2r3-s4t5-u6v7w8x9y0",
+    "type": "MULTI_SELECT",
+    "question": "What are your primary concerns about implementing a new CRM system?",
+    "options": [
+      {
+        "id": "c1",
+        "option": "Cost"
+      },
+      {
+        "id": "c2",
+        "option": "Data Migration"
+      },
+      {
+        "id": "c3",
+        "option": "User Adoption"
+      },
+      {
+        "id": "c4",
+        "option": "Integration with Existing Systems"
+      },
+      {
+        "id": "c5",
+        "option": "Training"
+      }
+    ]
+  },
+  {
+    "id": "g7l8m9o0-p1q2-r3s4-t5u6-v7w8x9y0z1",
+    "type": "SINGLE_SELECT",
+    "question": "Does your company currently use a CRM system?",
+    "options": [
+      {
+        "id": "cr1",
+        "option": "Yes"
+      },
+      {
+        "id": "cr2",
+        "option": "No"
+      }
+    ]
+  },
+  {
+    "id": "h8m9n0p1-q2r3-s4t5-u6v7-w8x9y0z1a2",
+    "type": "NUMBER",
+    "question": "How many sales representatives are in your team?",
+    "options": [
+      {
+        "id": "sr1",
+        "option": "1-5"
+      },
+      {
+        "id": "sr2",
+        "option": "6-10"
+      },
+      {
+        "id": "sr3",
+        "option": "11-20"
+      },
+      {
+        "id": "sr4",
+        "option": "More than 20"
+      }
+    ]
+  },
+  {
+    "id": "i9n0p1q2-r3s4-t5u6-v7w8-x9y0z1a2b3",
+    "type": "MULTI_SELECT",
+    "question": "What CRM platforms have you previously considered or used?",
+    "options": [
+      {
+        "id": "pl1",
+        "option": "Salesforce"
+      },
+      {
+        "id": "pl2",
+        "option": "HubSpot"
+      },
+      {
+        "id": "pl3",
+        "option": "Microsoft Dynamics 365"
+      },
+      {
+        "id": "pl4",
+        "option": "Zoho CRM"
+      },
+      {
+        "id": "pl5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary method for conducting market research?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Online Surveys"
+      },
+      {
+        "id": "m2",
+        "option": "Focus Groups"
+      },
+      {
+        "id": "m3",
+        "option": "Interviews"
+      },
+      {
+        "id": "m4",
+        "option": "Competitive Analysis"
+      },
+      {
+        "id": "m5",
+        "option": "Secondary Data Research (Reports, Publications)"
+      },
+      {
+        "id": "m6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "Approximately how much do you spend annually on market research?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Under $1,000"
+      },
+      {
+        "id": "b2",
+        "option": "$1,000 - $5,000"
+      },
+      {
+        "id": "b3",
+        "option": "$5,001 - $25,000"
+      },
+      {
+        "id": "b4",
+        "option": "Over $25,000"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "What data points are most important to your market research?",
+    "options": [
+      {
+        "id": "d1",
+        "option": "Market Size and Growth"
+      },
+      {
+        "id": "d2",
+        "option": "Customer Demographics"
+      },
+      {
+        "id": "d3",
+        "option": "Competitive Landscape"
+      },
+      {
+        "id": "d4",
+        "option": "Pricing Strategies"
+      },
+      {
+        "id": "d5",
+        "option": "Customer Needs and Preferences"
+      },
+      {
+        "id": "d6",
+        "option": "Distribution Channels"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "How often do you conduct formal market research?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Annually"
+      },
+      {
+        "id": "f2",
+        "option": "Semi-Annually"
+      },
+      {
+        "id": "f3",
+        "option": "Quarterly"
+      },
+      {
+        "id": "f4",
+        "option": "Monthly"
+      },
+      {
+        "id": "f5",
+        "option": "As needed"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "How many people are involved in your market research process?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "1-2"
+      },
+      {
+        "id": "n2",
+        "option": "3-5"
+      },
+      {
+        "id": "n3",
+        "option": "6-10"
+      },
+      {
+        "id": "n4",
+        "option": "More than 10"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What tools or software do you use for market research?",
+    "options": [
+      {
+        "id": "t1",
+        "option": "SurveyMonkey"
+      },
+      {
+        "id": "t2",
+        "option": "Qualtrics"
+      },
+      {
+        "id": "t3",
+        "option": "SPSS"
+      },
+      {
+        "id": "t4",
+        "option": "Excel"
+      },
+      {
+        "id": "t5",
+        "option": "Specialized market research platforms"
+      },
+      {
+        "id": "t6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are you with the results of your current market research efforts?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "s2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "s3",
+        "option": "Neutral"
+      },
+      {
+        "id": "s4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "s5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "On a scale of 1 to 10, how would you rate the accuracy of your market research data?",
+    "options": [
+      {
+        "id": "r1",
+        "option": "1-3"
+      },
+      {
+        "id": "r2",
+        "option": "4-6"
+      },
+      {
+        "id": "r3",
+        "option": "7-9"
+      },
+      {
+        "id": "r4",
+        "option": "10"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What areas of your market research would you like to improve?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Data Collection Methods"
+      },
+      {
+        "id": "i2",
+        "option": "Data Analysis Techniques"
+      },
+      {
+        "id": "i3",
+        "option": "Sample Size"
+      },
+      {
+        "id": "i4",
+        "option": "Budget Allocation"
+      },
+      {
+        "id": "i5",
+        "option": "Time Management"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary concern regarding data privacy and security?",
+    "options": [
+      {
+        "id": "pc1",
+        "option": "Data breaches"
+      },
+      {
+        "id": "pc2",
+        "option": "Unauthorized access"
+      },
+      {
+        "id": "pc3",
+        "option": "Non-compliance with regulations (GDPR, CCPA, etc.)"
+      },
+      {
+        "id": "pc4",
+        "option": "Loss of customer trust"
+      },
+      {
+        "id": "pc5",
+        "option": "Reputational damage"
+      },
+      {
+        "id": "pc6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "Approximately how many terabytes of data does your organization store?",
+    "options": [
+      {
+        "id": "tb1",
+        "option": "Under 1 TB"
+      },
+      {
+        "id": "tb2",
+        "option": "1 TB - 10 TB"
+      },
+      {
+        "id": "tb3",
+        "option": "10 TB - 100 TB"
+      },
+      {
+        "id": "tb4",
+        "option": "Over 100 TB"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "Which data security measures does your organization currently employ?",
+    "options": [
+      {
+        "id": "ms1",
+        "option": "Data encryption"
+      },
+      {
+        "id": "ms2",
+        "option": "Firewalls"
+      },
+      {
+        "id": "ms3",
+        "option": "Intrusion detection/prevention systems"
+      },
+      {
+        "id": "ms4",
+        "option": "Access control measures"
+      },
+      {
+        "id": "ms5",
+        "option": "Regular security audits"
+      },
+      {
+        "id": "ms6",
+        "option": "Employee security training"
+      },
+      {
+        "id": "ms7",
+        "option": "Data loss prevention (DLP) tools"
+      },
+      {
+        "id": "ms8",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "How often do you conduct security assessments or penetration testing?",
+    "options": [
+      {
+        "id": "sa1",
+        "option": "Annually"
+      },
+      {
+        "id": "sa2",
+        "option": "Semi-annually"
+      },
+      {
+        "id": "sa3",
+        "option": "Quarterly"
+      },
+      {
+        "id": "sa4",
+        "option": "Monthly"
+      },
+      {
+        "id": "sa5",
+        "option": "Never"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "What percentage of your IT budget is allocated to data security?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Under 5%"
+      },
+      {
+        "id": "p2",
+        "option": "5-10%"
+      },
+      {
+        "id": "p3",
+        "option": "11-20%"
+      },
+      {
+        "id": "p4",
+        "option": "Over 20%"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What data privacy regulations are most relevant to your organization?",
+    "options": [
+      {
+        "id": "r1",
+        "option": "GDPR"
+      },
+      {
+        "id": "r2",
+        "option": "CCPA"
+      },
+      {
+        "id": "r3",
+        "option": "HIPAA"
+      },
+      {
+        "id": "r4",
+        "option": "PIPEDA"
+      },
+      {
+        "id": "r5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How confident are you in your organization's ability to protect customer data?",
+    "options": [
+      {
+        "id": "co1",
+        "option": "Very Confident"
+      },
+      {
+        "id": "co2",
+        "option": "Confident"
+      },
+      {
+        "id": "co3",
+        "option": "Neutral"
+      },
+      {
+        "id": "co4",
+        "option": "Not Confident"
+      },
+      {
+        "id": "co5",
+        "option": "Very Not Confident"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "How many employees have undergone data privacy and security training in the past year?",
+    "options": [
+      {
+        "id": "t1",
+        "option": "Less than 10"
+      },
+      {
+        "id": "t2",
+        "option": "10-50"
+      },
+      {
+        "id": "t3",
+        "option": "51-100"
+      },
+      {
+        "id": "t4",
+        "option": "More than 100"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What are your organization's primary data security goals for the next year?",
+    "options": [
+      {
+        "id": "g1",
+        "option": "Improve data encryption"
+      },
+      {
+        "id": "g2",
+        "option": "Enhance access control"
+      },
+      {
+        "id": "g3",
+        "option": "Strengthen incident response capabilities"
+      },
+      {
+        "id": "g4",
+        "option": "Increase employee security awareness"
+      },
+      {
+        "id": "g5",
+        "option": "Improve compliance with data privacy regulations"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary channel for customer acquisition?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Online Advertising (Google Ads, Social Media, etc.)"
+      },
+      {
+        "id": "ch2",
+        "option": "Content Marketing (Blog, Articles, etc.)"
+      },
+      {
+        "id": "ch3",
+        "option": "Search Engine Optimization (SEO)"
+      },
+      {
+        "id": "ch4",
+        "option": "Email Marketing"
+      },
+      {
+        "id": "ch5",
+        "option": "Social Media Marketing"
+      },
+      {
+        "id": "ch6",
+        "option": "Referral Programs"
+      },
+      {
+        "id": "ch7",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "What is your average customer acquisition cost (CAC)?",
+    "options": [
+      {
+        "id": "cac1",
+        "option": "Under $50"
+      },
+      {
+        "id": "cac2",
+        "option": "$50 - $200"
+      },
+      {
+        "id": "cac3",
+        "option": "$201 - $500"
+      },
+      {
+        "id": "cac4",
+        "option": "Over $500"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "Which marketing automation tools do you currently use?",
+    "options": [
+      {
+        "id": "ma1",
+        "option": "HubSpot"
+      },
+      {
+        "id": "ma2",
+        "option": "Marketo"
+      },
+      {
+        "id": "ma3",
+        "option": "Pardot"
+      },
+      {
+        "id": "ma4",
+        "option": "Salesforce Marketing Cloud"
+      },
+      {
+        "id": "ma5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary goal for marketing in the next 6 months?",
+    "options": [
+      {
+        "id": "g1",
+        "option": "Increase brand awareness"
+      },
+      {
+        "id": "g2",
+        "option": "Generate more leads"
+      },
+      {
+        "id": "g3",
+        "option": "Improve conversion rates"
+      },
+      {
+        "id": "g4",
+        "option": "Increase customer retention"
+      },
+      {
+        "id": "g5",
+        "option": "Expand into new markets"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "What percentage of your revenue is currently allocated to marketing?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Under 5%"
+      },
+      {
+        "id": "p2",
+        "option": "5-10%"
+      },
+      {
+        "id": "p3",
+        "option": "11-20%"
+      },
+      {
+        "id": "p4",
+        "option": "Over 20%"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "Which marketing metrics do you track most closely?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Website traffic"
+      },
+      {
+        "id": "m2",
+        "option": "Lead generation"
+      },
+      {
+        "id": "m3",
+        "option": "Conversion rates"
+      },
+      {
+        "id": "m4",
+        "option": "Customer acquisition cost (CAC)"
+      },
+      {
+        "id": "m5",
+        "option": "Customer lifetime value (CLTV)"
+      },
+      {
+        "id": "m6",
+        "option": "Return on investment (ROI)"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are you with your current marketing performance?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "s2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "s3",
+        "option": "Neutral"
+      },
+      {
+        "id": "s4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "s5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "How many marketing campaigns did you run in the last year?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "Less than 5"
+      },
+      {
+        "id": "n2",
+        "option": "5-10"
+      },
+      {
+        "id": "n3",
+        "option": "11-20"
+      },
+      {
+        "id": "n4",
+        "option": "More than 20"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What marketing channels do you plan to invest more in during the next year?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Paid Advertising"
+      },
+      {
+        "id": "ch2",
+        "option": "Content Marketing"
+      },
+      {
+        "id": "ch3",
+        "option": "Social Media Marketing"
+      },
+      {
+        "id": "ch4",
+        "option": "Email Marketing"
+      },
+      {
+        "id": "ch5",
+        "option": "Events and Conferences"
+      },
+      {
+        "id": "ch6",
+        "option": "Public Relations"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your primary method for employee training and development?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Online Courses/eLearning"
+      },
+      {
+        "id": "m2",
+        "option": "In-Person Workshops/Training"
+      },
+      {
+        "id": "m3",
+        "option": "Mentorship Programs"
+      },
+      {
+        "id": "m4",
+        "option": "On-the-Job Training"
+      },
+      {
+        "id": "m5",
+        "option": "External Training Programs"
+      },
+      {
+        "id": "m6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "What is your approximate annual budget for employee training and development?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Under $1,000 per employee"
+      },
+      {
+        "id": "b2",
+        "option": "$1,000 - $5,000 per employee"
+      },
+      {
+        "id": "b3",
+        "option": "$5,001 - $10,000 per employee"
+      },
+      {
+        "id": "b4",
+        "option": "Over $10,000 per employee"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "Which training methods are you planning to implement or increase in the next year?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Virtual Reality (VR) Training"
+      },
+      {
+        "id": "m2",
+        "option": "Gamified Learning"
+      },
+      {
+        "id": "m3",
+        "option": "Microlearning Modules"
+      },
+      {
+        "id": "m4",
+        "option": "Leadership Development Programs"
+      },
+      {
+        "id": "m5",
+        "option": "Technical Skills Training"
+      },
+      {
+        "id": "m6",
+        "option": "Soft Skills Training"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "How do you primarily measure the effectiveness of your employee training programs?",
+    "options": [
+      {
+        "id": "me1",
+        "option": "Employee Performance Reviews"
+      },
+      {
+        "id": "me2",
+        "option": "Pre- and Post-Training Assessments"
+      },
+      {
+        "id": "me3",
+        "option": "Employee Feedback Surveys"
+      },
+      {
+        "id": "me4",
+        "option": "Tracking Key Performance Indicators (KPIs)"
+      },
+      {
+        "id": "me5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "What percentage of your employees participate in training programs annually?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Under 50%"
+      },
+      {
+        "id": "p2",
+        "option": "50-75%"
+      },
+      {
+        "id": "p3",
+        "option": "76-90%"
+      },
+      {
+        "id": "p4",
+        "option": "Over 90%"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What are your biggest challenges in employee training and development?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Budget constraints"
+      },
+      {
+        "id": "ch2",
+        "option": "Time constraints"
+      },
+      {
+        "id": "ch3",
+        "option": "Lack of resources"
+      },
+      {
+        "id": "ch4",
+        "option": "Measuring effectiveness"
+      },
+      {
+        "id": "ch5",
+        "option": "Keeping training up-to-date"
+      },
+      {
+        "id": "ch6",
+        "option": "Employee engagement"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are your employees with the current training and development opportunities?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "s2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "s3",
+        "option": "Neutral"
+      },
+      {
+        "id": "s4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "s5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "How many hours of training does the average employee receive per year?",
+    "options": [
+      {
+        "id": "h1",
+        "option": "Under 10 hours"
+      },
+      {
+        "id": "h2",
+        "option": "10-20 hours"
+      },
+      {
+        "id": "h3",
+        "option": "21-40 hours"
+      },
+      {
+        "id": "h4",
+        "option": "Over 40 hours"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What types of training are most in-demand by your employees?",
+    "options": [
+      {
+        "id": "t1",
+        "option": "Technical Skills Training"
+      },
+      {
+        "id": "t2",
+        "option": "Leadership Development"
+      },
+      {
+        "id": "t3",
+        "option": "Communication Skills Training"
+      },
+      {
+        "id": "t4",
+        "option": "Problem-Solving Skills Training"
+      },
+      {
+        "id": "t5",
+        "option": "Software/Technology Training"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company's primary goal for improving its sustainability practices?",
+    "options": [
+      {
+        "id": "g1",
+        "option": "Reduce environmental impact"
+      },
+      {
+        "id": "g2",
+        "option": "Enhance corporate social responsibility"
+      },
+      {
+        "id": "g3",
+        "option": "Improve brand reputation"
+      },
+      {
+        "id": "g4",
+        "option": "Reduce operational costs"
+      },
+      {
+        "id": "g5",
+        "option": "Meet regulatory requirements"
+      },
+      {
+        "id": "g6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "What is your company's approximate annual spending on sustainability initiatives?",
+    "options": [
+      {
+        "id": "b1",
+        "option": "Under $10,000"
+      },
+      {
+        "id": "b2",
+        "option": "$10,000 - $50,000"
+      },
+      {
+        "id": "b3",
+        "option": "$50,001 - $100,000"
+      },
+      {
+        "id": "b4",
+        "option": "Over $100,000"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "Which sustainability initiatives has your company already implemented?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Energy efficiency improvements"
+      },
+      {
+        "id": "i2",
+        "option": "Waste reduction programs"
+      },
+      {
+        "id": "i3",
+        "option": "Sustainable sourcing"
+      },
+      {
+        "id": "i4",
+        "option": "Carbon offsetting"
+      },
+      {
+        "id": "i5",
+        "option": "Employee engagement programs"
+      },
+      {
+        "id": "i6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "How does your company measure the success of its sustainability initiatives?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Tracking key performance indicators (KPIs)"
+      },
+      {
+        "id": "m2",
+        "option": "Environmental impact assessments"
+      },
+      {
+        "id": "m3",
+        "option": "Employee surveys"
+      },
+      {
+        "id": "m4",
+        "option": "Customer feedback"
+      },
+      {
+        "id": "m5",
+        "option": "Third-party certifications"
+      },
+      {
+        "id": "m6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "How many employees are involved in your company's sustainability efforts?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "Less than 10"
+      },
+      {
+        "id": "n2",
+        "option": "10-50"
+      },
+      {
+        "id": "n3",
+        "option": "51-100"
+      },
+      {
+        "id": "n4",
+        "option": "More than 100"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "Which sustainability certifications or standards is your company pursuing or has already achieved?",
+    "options": [
+      {
+        "id": "c1",
+        "option": "ISO 14001"
+      },
+      {
+        "id": "c2",
+        "option": "LEED"
+      },
+      {
+        "id": "c3",
+        "option": "B Corp"
+      },
+      {
+        "id": "c4",
+        "option": "CarbonNeutral"
+      },
+      {
+        "id": "c5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How important is sustainability to your company's overall business strategy?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Very Important"
+      },
+      {
+        "id": "i2",
+        "option": "Important"
+      },
+      {
+        "id": "i3",
+        "option": "Somewhat Important"
+      },
+      {
+        "id": "i4",
+        "option": "Not Important"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "What percentage of your company's energy consumption comes from renewable sources?",
+    "options": [
+      {
+        "id": "e1",
+        "option": "0-25%"
+      },
+      {
+        "id": "e2",
+        "option": "26-50%"
+      },
+      {
+        "id": "e3",
+        "option": "51-75%"
+      },
+      {
+        "id": "e4",
+        "option": "Over 75%"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What are your company's main obstacles to achieving greater sustainability?",
+    "options": [
+      {
+        "id": "o1",
+        "option": "Cost"
+      },
+      {
+        "id": "o2",
+        "option": "Lack of resources"
+      },
+      {
+        "id": "o3",
+        "option": "Lack of employee engagement"
+      },
+      {
+        "id": "o4",
+        "option": "Lack of clear metrics"
+      },
+      {
+        "id": "o5",
+        "option": "Resistance to change"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company's primary method for managing customer relationships?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "CRM Software (Salesforce, HubSpot, etc.)"
+      },
+      {
+        "id": "m2",
+        "option": "Spreadsheet Software (Excel, Google Sheets, etc.)"
+      },
+      {
+        "id": "m3",
+        "option": "Dedicated Customer Relationship Team"
+      },
+      {
+        "id": "m4",
+        "option": "Combination of methods"
+      },
+      {
+        "id": "m5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "Approximately how many customers does your company currently serve?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "Under 100"
+      },
+      {
+        "id": "n2",
+        "option": "100-1000"
+      },
+      {
+        "id": "n3",
+        "option": "1001-10000"
+      },
+      {
+        "id": "n4",
+        "option": "Over 10000"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "Which customer relationship management (CRM) features are most important to your organization?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Contact Management"
+      },
+      {
+        "id": "f2",
+        "option": "Sales Pipeline Management"
+      },
+      {
+        "id": "f3",
+        "option": "Lead Management"
+      },
+      {
+        "id": "f4",
+        "option": "Reporting and Analytics"
+      },
+      {
+        "id": "f5",
+        "option": "Marketing Automation"
+      },
+      {
+        "id": "f6",
+        "option": "Customer Support Integration"
+      },
+      {
+        "id": "f7",
+        "option": "Customer Segmentation"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "How often does your company conduct customer satisfaction surveys?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Monthly"
+      },
+      {
+        "id": "s2",
+        "option": "Quarterly"
+      },
+      {
+        "id": "s3",
+        "option": "Annually"
+      },
+      {
+        "id": "s4",
+        "option": "Less than annually"
+      },
+      {
+        "id": "s5",
+        "option": "Never"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "What is your company's average customer lifetime value (CLTV)?",
+    "options": [
+      {
+        "id": "cltv1",
+        "option": "Under $100"
+      },
+      {
+        "id": "cltv2",
+        "option": "$100-$500"
+      },
+      {
+        "id": "cltv3",
+        "option": "$501-$1000"
+      },
+      {
+        "id": "cltv4",
+        "option": "Over $1000"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What channels do you use to communicate with your customers?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Email"
+      },
+      {
+        "id": "ch2",
+        "option": "Phone"
+      },
+      {
+        "id": "ch3",
+        "option": "Social Media"
+      },
+      {
+        "id": "ch4",
+        "option": "Live Chat"
+      },
+      {
+        "id": "ch5",
+        "option": "In-App Messaging"
+      },
+      {
+        "id": "ch6",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are you with your company's current customer relationship management practices?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "s2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "s3",
+        "option": "Neutral"
+      },
+      {
+        "id": "s4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "s5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "On a scale of 1-10, how would you rate the efficiency of your customer communication processes?",
+    "options": [
+      {
+        "id": "e1",
+        "option": "1-3"
+      },
+      {
+        "id": "e2",
+        "option": "4-6"
+      },
+      {
+        "id": "e3",
+        "option": "7-9"
+      },
+      {
+        "id": "e4",
+        "option": "10"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What areas of your customer relationship management would you like to improve?",
+    "options": [
+      {
+        "id": "i1",
+        "option": "Improve customer communication"
+      },
+      {
+        "id": "i2",
+        "option": "Enhance customer support"
+      },
+      {
+        "id": "i3",
+        "option": "Increase customer retention"
+      },
+      {
+        "id": "i4",
+        "option": "Improve data management"
+      },
+      {
+        "id": "i5",
+        "option": "Better personalization of customer interactions"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "What is your company's primary method for managing project tasks and deadlines?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Project Management Software (Asana, Trello, Jira, etc.)"
+      },
+      {
+        "id": "m2",
+        "option": "Spreadsheet Software (Excel, Google Sheets, etc.)"
+      },
+      {
+        "id": "m3",
+        "option": "Email and Calendar"
+      },
+      {
+        "id": "m4",
+        "option": "Combination of methods"
+      },
+      {
+        "id": "m5",
+        "option": "Other"
+      }
+    ]
+  },
+  {
+    "id": "c5d6e7f8-90a1-b2c3-d4e5-f67890abcdef",
+    "type": "NUMBER",
+    "question": "Approximately how many projects is your company currently managing simultaneously?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "1-5"
+      },
+      {
+        "id": "n2",
+        "option": "6-10"
+      },
+      {
+        "id": "n3",
+        "option": "11-20"
+      },
+      {
+        "id": "n4",
+        "option": "Over 20"
+      }
+    ]
+  },
+  {
+    "id": "e7f8g9h0-a1b2-c3d4-e5f6-7890abcdefgh",
+    "type": "MULTI_SELECT",
+    "question": "Which project management features are most important to your organization?",
+    "options": [
+      {
+        "id": "f1",
+        "option": "Task Management"
+      },
+      {
+        "id": "f2",
+        "option": "Deadline Tracking"
+      },
+      {
+        "id": "f3",
+        "option": "Progress Reporting"
+      },
+      {
+        "id": "f4",
+        "option": "Team Collaboration"
+      },
+      {
+        "id": "f5",
+        "option": "Resource Allocation"
+      },
+      {
+        "id": "f6",
+        "option": "Risk Management"
+      },
+      {
+        "id": "f7",
+        "option": "Budget Tracking"
+      }
+    ]
+  },
+  {
+    "id": "f9a0b1c2-d3e4-f5g6-h7i8-j9k0abcdef",
+    "type": "SINGLE_SELECT",
+    "question": "How satisfied are you with your company's current project management processes?",
+    "options": [
+      {
+        "id": "s1",
+        "option": "Very Satisfied"
+      },
+      {
+        "id": "s2",
+        "option": "Satisfied"
+      },
+      {
+        "id": "s3",
+        "option": "Neutral"
+      },
+      {
+        "id": "s4",
+        "option": "Dissatisfied"
+      },
+      {
+        "id": "s5",
+        "option": "Very Dissatisfied"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcde",
+    "type": "NUMBER",
+    "question": "Approximately what percentage of projects are completed on time and within budget?",
+    "options": [
+      {
+        "id": "p1",
+        "option": "Under 50%"
+      },
+      {
+        "id": "p2",
+        "option": "50-75%"
+      },
+      {
+        "id": "p3",
+        "option": "76-90%"
+      },
+      {
+        "id": "p4",
+        "option": "Over 90%"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6",
+    "type": "MULTI_SELECT",
+    "question": "What are the biggest challenges your company faces in project management?",
+    "options": [
+      {
+        "id": "ch1",
+        "option": "Lack of clear communication"
+      },
+      {
+        "id": "ch2",
+        "option": "Inadequate resource allocation"
+      },
+      {
+        "id": "ch3",
+        "option": "Poor task prioritization"
+      },
+      {
+        "id": "ch4",
+        "option": "Inadequate project planning"
+      },
+      {
+        "id": "ch5",
+        "option": "Scope creep"
+      },
+      {
+        "id": "ch6",
+        "option": "Lack of project visibility"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7",
+    "type": "SINGLE_SELECT",
+    "question": "How frequently does your company review and update its project management processes?",
+    "options": [
+      {
+        "id": "r1",
+        "option": "Monthly"
+      },
+      {
+        "id": "r2",
+        "option": "Quarterly"
+      },
+      {
+        "id": "r3",
+        "option": "Annually"
+      },
+      {
+        "id": "r4",
+        "option": "As needed"
+      },
+      {
+        "id": "r5",
+        "option": "Never"
+      }
+    ]
+  },
+  {
+    "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8",
+    "type": "NUMBER",
+    "question": "How many people are involved in the project management process in your company?",
+    "options": [
+      {
+        "id": "n1",
+        "option": "1-5"
+      },
+      {
+        "id": "n2",
+        "option": "6-10"
+      },
+      {
+        "id": "n3",
+        "option": "11-20"
+      },
+      {
+        "id": "n4",
+        "option": "Over 20"
+      }
+    ]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9",
+    "type": "MULTI_SELECT",
+    "question": "What project management methodologies does your company utilize?",
+    "options": [
+      {
+        "id": "m1",
+        "option": "Agile"
+      },
+      {
+        "id": "m2",
+        "option": "Waterfall"
+      },
+      {
+        "id": "m3",
+        "option": "Kanban"
+      },
+      {
+        "id": "m4",
+        "option": "Scrum"
+      },
+      {
+        "id": "m5",
+        "option": "Other"
+      }
+    ]
+  }
+]

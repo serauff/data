@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "DATE",
+    "question": "What is your preferred date for the initial consultation?",
+    "options": [{ "id": "option1", "option": "Date" }]
+  },
+  {
+    "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+    "type": "DATE",
+    "question": "When did the project officially begin?",
+    "options": [{ "id": "option2", "option": "Date" }]
+  },
+  {
+    "id": "1a2b3c4d-e5f6-7890-1234-567890fedcba",
+    "type": "DATE",
+    "question": "What is the deadline for this task?",
+    "options": [{ "id": "option3", "option": "Date" }]
+  },
+  {
+    "id": "5a6b7c8d-e9f0-1234-5678-90abcdef0123",
+    "type": "DATE",
+    "question": "When is the next team meeting scheduled?",
+    "options": [{ "id": "option4", "option": "Date" }]
+  },
+  {
+    "id": "b1c2d3e4-f5g6-70h8-91a2-3b4c5d6e7f89",
+    "type": "DATE",
+    "question": "What is the invoice due date?",
+    "options": [{ "id": "option5", "option": "Date" }]
+  },
+  {
+    "id": "7a8b9c0d-e1f2-3g4h-5i6j-7k8l9m0n1o2p",
+    "type": "DATE",
+    "question": "When was the last performance review conducted?",
+    "options": [{ "id": "option6", "option": "Date" }]
+  },
+  {
+    "id": "d4c3b2a1-f6e5-7890-1234-567890abcdef",
+    "type": "DATE",
+    "question": "What date did the customer request the product?",
+    "options": [{ "id": "option7", "option": "Date" }]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-1a2b-3c4d-5e6f7g8h9i0j",
+    "type": "DATE",
+    "question": "When is the product launch scheduled?",
+    "options": [{ "id": "option8", "option": "Date" }]
+  },
+  {
+    "id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+    "type": "DATE",
+    "question": "When was the last software update released?",
+    "options": [{ "id": "option9", "option": "Date" }]
+  },
+  {
+    "id": "z6y5x4w3-v2u1-t0s9-r8q7-p6o5n4m3l1k",
+    "type": "DATE",
+    "question": "What is the target completion date for the beta testing phase?",
+    "options": [{ "id": "option10", "option": "Date" }]
+  },
+  {
+    "id": "f76d9e3a-8bc5-41a2-97d1-6e49f1b83a75",
+    "type": "DATE",
+    "question": "When is the next scheduled system maintenance?",
+    "options": [{ "id": "date_option1", "option": "Date" }]
+  },
+  {
+    "id": "a3b1c2d4-e5f6-7890-1234-567890abcdef",
+    "type": "DATE",
+    "question": "What is the expected delivery date for order #12345?",
+    "options": [{ "id": "date_option2", "option": "Date" }]
+  },
+  {
+    "id": "98765432-10fe-dcba-9876-543210fedcba",
+    "type": "DATE",
+    "question": "When did the warranty period for product X begin?",
+    "options": [{ "id": "date_option3", "option": "Date" }]
+  },
+  {
+    "id": "c7d5e3f1-a2b0-c4d6-f89a-57b3e1f0dca9",
+    "type": "DATE",
+    "question": "What is the proposed start date for the new project?",
+    "options": [{ "id": "date_option4", "option": "Date" }]
+  },
+  {
+    "id": "b5a3c2d1-f6e7-a9b0-c8d7-e1f2a3b4c5d6",
+    "type": "DATE",
+    "question": "When was the last security audit performed?",
+    "options": [{ "id": "date_option5", "option": "Date" }]
+  },
+  {
+    "id": "78e6f4d3-b1a0-c9d8-e7f5-a3b1c2d4e5f6",
+    "type": "DATE",
+    "question": "What is the date of the next board meeting?",
+    "options": [{ "id": "date_option6", "option": "Date" }]
+  },
+  {
+    "id": "24680135-79be-cdf0-1357-9bdfea0c9876",
+    "type": "DATE",
+    "question": "When is the contract renewal date?",
+    "options": [{ "id": "date_option7", "option": "Date" }]
+  },
+  {
+    "id": "d1c3b5a7-e9f0-1357-9baf-d7c9e5f1a3b0",
+    "type": "DATE",
+    "question": "When is the payment due for invoice number ABC123XYZ?",
+    "options": [{ "id": "date_option8", "option": "Date" }]
+  },
+  {
+    "id": "597b31a5-d8c6-f0e2-a1b3-c5d7e9f0a1b2",
+    "type": "DATE",
+    "question": "When is the company anniversary?",
+    "options": [{ "id": "date_option9", "option": "Date" }]
+  },
+  {
+    "id": "e3f1a5b7-c9d8-e7f0-a1b2-c3d5e7f9a1b0",
+    "type": "DATE",
+    "question": "What date did the employee start their employment?",
+    "options": [{ "id": "date_option10", "option": "Date" }]
+  },
+  {
+    "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5g6h",
+    "type": "DATE",
+    "question": "When did the marketing campaign start?",
+    "options": [{ "id": "date_option1", "option": "Date" }]
+  },
+  {
+    "id": "7i8j9k0l-1m2n-3o4p-5q6r-7s8t9u0v1w2x",
+    "type": "DATE",
+    "question": "What is the expected completion date of the software development?",
+    "options": [{ "id": "date_option2", "option": "Date" }]
+  },
+  {
+    "id": "y3z4a5b6-7c8d-9e0f-1g2h-3i4j5k6l7m8n",
+    "type": "DATE",
+    "question": "When is the next product demonstration scheduled?",
+    "options": [{ "id": "date_option3", "option": "Date" }]
+  },
+  {
+    "id": "o9p0q1r2-s3t4-u5v6-w7x8-y9z0a1b2c3d",
+    "type": "DATE",
+    "question": "What is the target launch date for the new website?",
+    "options": [{ "id": "date_option4", "option": "Date" }]
+  },
+  {
+    "id": "4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+    "type": "DATE",
+    "question": "When is the deadline for submitting the annual report?",
+    "options": [{ "id": "date_option5", "option": "Date" }]
+  },
+  {
+    "id": "u7v8w9x0-y1z2-a3b4-c5d6-e7f8g9h0i1j2",
+    "type": "DATE",
+    "question": "When did the client sign the contract?",
+    "options": [{ "id": "date_option6", "option": "Date" }]
+  },
+  {
+    "id": "k2l3m4n5-o6p7-q8r9-s0t1-u2v3w4x5y6z",
+    "type": "DATE",
+    "question": "When is the next budget review meeting?",
+    "options": [{ "id": "date_option7", "option": "Date" }]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890a1b2c",
+    "type": "DATE",
+    "question": "What is the final payment date for project Alpha?",
+    "options": [{ "id": "date_option8", "option": "Date" }]
+  },
+  {
+    "id": "f7g8h9i0-j1k2-l3m4-n5o6-p7q8r9s0t1u",
+    "type": "DATE",
+    "question": "When is the company holiday party scheduled?",
+    "options": [{ "id": "date_option9", "option": "Date" }]
+  },
+  {
+    "id": "v4w5x6y7-z8a9-b0c1-d2e3-f4g5h6i7j8k",
+    "type": "DATE",
+    "question": "What is the date of the next training session?",
+    "options": [{ "id": "date_option10", "option": "Date" }]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "type": "DATE",
+    "question": "When is the next scheduled server backup?",
+    "options": [{ "id": "date_option1", "option": "Date" }]
+  },
+  {
+    "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+    "type": "DATE",
+    "question": "What is the target completion date for the current sprint?",
+    "options": [{ "id": "date_option2", "option": "Date" }]
+  },
+  {
+    "id": "1a2b3c4d-e5f6-7890-1234-567890fedcba",
+    "type": "DATE",
+    "question": "When is the deadline for submitting expense reports?",
+    "options": [{ "id": "date_option3", "option": "Date" }]
+  },
+  {
+    "id": "5a6b7c8d-e9f0-1234-5678-90abcdef0123",
+    "type": "DATE",
+    "question": "What date should the invoice be issued?",
+    "options": [{ "id": "date_option4", "option": "Date" }]
+  },
+  {
+    "id": "b1c2d3e4-f5g6-70h8-91a2-3b4c5d6e7f89",
+    "type": "DATE",
+    "question": "When is the next performance review scheduled for John Doe?",
+    "options": [{ "id": "date_option5", "option": "Date" }]
+  },
+  {
+    "id": "7a8b9c0d-e1f2-3g4h-5i6j-7k8l9m0n1o2p",
+    "type": "DATE",
+    "question": "What is the projected launch date for the new mobile app?",
+    "options": [{ "id": "date_option6", "option": "Date" }]
+  },
+  {
+    "id": "d4c3b2a1-f6e5-7890-1234-567890abcdef",
+    "type": "DATE",
+    "question": "When is the final submission date for the grant proposal?",
+    "options": [{ "id": "date_option7", "option": "Date" }]
+  },
+  {
+    "id": "e5f6g7h8-i9j0-1a2b-3c4d-5e6f7g8h9i0j",
+    "type": "DATE",
+    "question": "What is the date of the next company picnic?",
+    "options": [{ "id": "date_option8", "option": "Date" }]
+  },
+  {
+    "id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+    "type": "DATE",
+    "question": "When is the deadline for the project milestone?",
+    "options": [{ "id": "date_option9", "option": "Date" }]
+  },
+  {
+    "id": "z6y5x4w3-v2u1-t0s9-r8q7-p6o5n4m3l1k",
+    "type": "DATE",
+    "question": "What is the start date of the fiscal year?",
+    "options": [{ "id": "date_option10", "option": "Date" }]
+  },
+  {
+    "id": "d9c8b7a6-5432-10fe-dcba-9876543210fe",
+    "type": "DATE",
+    "question": "When is the next team offsite scheduled?",
+    "options": [{ "id": "date_option1", "option": "Date" }]
+  },
+  {
+    "id": "e8f7g6h5-i4j3-k2l1-m0n9-o8p7q6r5s4t3",
+    "type": "DATE",
+    "question": "What is the due date for the Q3 sales report?",
+    "options": [{ "id": "date_option2", "option": "Date" }]
+  },
+  {
+    "id": "a7b6c5d4-e3f2-g1h0-i9j8-k7l6m5n4o3p2",
+    "type": "DATE",
+    "question": "When is the conference call with the client scheduled?",
+    "options": [{ "id": "date_option3", "option": "Date" }]
+  },
+  {
+    "id": "b5a4c3b2-a1d0-c9e8-f7g6-h5i4j3k2l1m0",
+    "type": "DATE",
+    "question": "What is the expected ship date for the new hardware?",
+    "options": [{ "id": "date_option4", "option": "Date" }]
+  },
+  {
+    "id": "c2d1e0f9-a8b7-c6d5-e4f3-g2h1i0j9k8l7",
+    "type": "DATE",
+    "question": "When is the next audit of the financial records scheduled?",
+    "options": [{ "id": "date_option5", "option": "Date" }]
+  },
+  {
+    "id": "10234567-89ab-cdef-0123-456789abcdef",
+    "type": "DATE",
+    "question": "What is the deadline for submitting the budget proposal?",
+    "options": [{ "id": "date_option6", "option": "Date" }]
+  },
+  {
+    "id": "f6e5d4c3-b2a1-0987-6543-210fedcba987",
+    "type": "DATE",
+    "question": "When is the contract with vendor X set to expire?",
+    "options": [{ "id": "date_option7", "option": "Date" }]
+  },
+  {
+    "id": "g5h4i3j2-k1l0-m9n8-o7p6-q5r4s3t2u1v0",
+    "type": "DATE",
+    "question": "What date did we receive the client's feedback?",
+    "options": [{ "id": "date_option8", "option": "Date" }]
+  },
+  {
+    "id": "76543210-fedc-ba98-7654-3210fedcba98",
+    "type": "DATE",
+    "question": "When is the deadline for submitting the project status report?",
+    "options": [{ "id": "date_option9", "option": "Date" }]
+  },
+  {
+    "id": "wxyz1234-5678-90ab-cdef-0123456789ab",
+    "type": "DATE",
+    "question": "What is the planned implementation date for the new software?",
+    "options": [{ "id": "date_option10", "option": "Date" }]
+  }
+]
